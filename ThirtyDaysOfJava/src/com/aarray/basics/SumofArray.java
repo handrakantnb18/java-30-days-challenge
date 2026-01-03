@@ -2,7 +2,7 @@ package com.aarray.basics;
 
 public class SumofArray {
 
-    static int num[] = {12, 56, 78, 25, 48, 92, 90};
+    static int num[] = {12, 56, 78, 25, 48, 92, 90, 4};
 
     static int sum()
     {
