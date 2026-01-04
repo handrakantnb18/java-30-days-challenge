@@ -14,3 +14,4 @@ public class CountOccurrences {
         System.out.println("Element "+ num1 + " occurse "+ result + " times in the array");
     }
 }
+
