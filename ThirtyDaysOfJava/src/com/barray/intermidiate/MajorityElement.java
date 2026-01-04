@@ -1,7 +1,7 @@
 package com.barray.intermidiate;
 
 public class MajorityElement {
-    public static void findMajorityElement(int[] nums) {
+    public static int findMajorityElement(int[] nums) {
         int count = 1;
         int majorityElement = nums[0];
 
@@ -20,7 +20,7 @@ public class MajorityElement {
         return majorityElement;
     }
     public static void main(String[] args) {
-        int[] nums = {5, 5, 5, 8, 4, 5, 5};
+        int[] nums = {5, 5, 5, 8, 4, 4, 4};
         int majorityElement = findMajorityElement(nums);
         System.out.println("Majority Element : "+majorityElement);
 
