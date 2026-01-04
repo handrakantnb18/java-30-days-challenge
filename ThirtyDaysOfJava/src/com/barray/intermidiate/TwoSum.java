@@ -3,7 +3,7 @@ package com.barray.intermidiate;
 public class TwoSum {
     public static void main(String[] args) {
         int[] arr1 =  {10, 20, 25};
-        int[] arr2 = {5, 15, 30, 40};
+        int[] arr2 = {5, 15, 30, 60};
         int maxLength = Math.max(arr1.length, arr2.length);
         int[] sumArray = new int[maxLength];
 
