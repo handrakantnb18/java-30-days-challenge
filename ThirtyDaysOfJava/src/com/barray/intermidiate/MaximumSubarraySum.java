@@ -13,6 +13,6 @@ public class MaximumSubarraySum {
     }
     public static void main(String[] args) {
         int[] array = {5, 15, 20, 44, 77, 55};
-        System.out.println("Maximum subarray sum : " );
+        System.out.println("Maximum subarray sum : " + maxSubArraySum(array));
     }
 }
