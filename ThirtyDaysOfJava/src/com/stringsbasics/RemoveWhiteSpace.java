@@ -1,5 +1,7 @@
 package com.stringsbasics;
 
+import java.util.Locale;
+
 public class RemoveWhiteSpace {
     public static void main(String[] args) {
         String str = "  Priyanka chandrakant bhosale";
@@ -12,4 +14,3 @@ public class RemoveWhiteSpace {
         System.out.println("Trim method : "+result1);
     }
 }
-
