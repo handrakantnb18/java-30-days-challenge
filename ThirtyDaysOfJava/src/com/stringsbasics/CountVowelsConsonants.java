@@ -28,4 +28,3 @@ public class CountVowelsConsonants {
         count(str);
     }
 }
-
