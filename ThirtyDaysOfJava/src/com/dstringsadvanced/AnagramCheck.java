@@ -22,7 +22,7 @@ public class AnagramCheck {
     }
     public static void main(String[] args) {
             char str1[] = {'t', 'e', 's', 't'};
-            char str2[] = {'t', 'e', 's', 't'};
+            char str2[] = {'t', 't', 'e', 'w'};
 
             if (areAngram(str1, str2))
         System.out.println("The two strings are : "+ " angram of each other");
