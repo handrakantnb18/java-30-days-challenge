@@ -1,6 +1,8 @@
 
 package com.stringsbasics;
 
+import java.util.Arrays;
+
 public class ReplaceCharacter {
     public static void main(String[] args) {
         String str = "Welcome, hello word";
