@@ -11,7 +11,7 @@ public class LinearSearch {
         return -1;
     }
     public static void main(String[] args) {
-        int[] num1 = { 3, 4, 8, 7, 9, 6};
+        int[] num1 = { 3, 4, 8, 7, 9, 6, 5, 7};
         int num2 = num1.length;
 
         int num3 = 6;
