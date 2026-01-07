@@ -9,7 +9,7 @@ public class MergeSort {
             mergerSort(arr, left, mid);
             mergerSort(arr, mid + 1, right);
 
-            merge(arr, left, mid, right);
+            merge(arr, mid, left, right);
         }
     }
 
@@ -23,7 +23,7 @@ public class MergeSort {
         for (int i = 0; i < n1; i++)
             leftArray[i] = arr[left + i];
             for (int j = 0; j < n2; j++)
-                rightArray[j] = arr[right + j];
+                rightArray[j] = arr[mid + 1 + j];
 
             int i = 0, j = 0;
             int k = left;
