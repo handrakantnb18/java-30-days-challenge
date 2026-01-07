@@ -32,3 +32,4 @@ public class FindFirstLastOccurrence {
         System.out.println(res.get(0) + " " + res.get(1));
     }
 }
+
