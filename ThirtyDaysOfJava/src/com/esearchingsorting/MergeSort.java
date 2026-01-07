@@ -1,6 +1,8 @@
 
 package com.esearchingsorting;
 
+import java.util.Arrays;
+
 public class MergeSort {
 
     public void mergerSort(int[] arr, int left, int right) {
