@@ -2,6 +2,8 @@
 package com.esearchingsorting;
 
 import java.util.ArrayList;
+import java.util.Arrays;
+import java.util.Collections;
 
 public class FindFirstLastOccurrence {
 
@@ -32,4 +34,3 @@ public class FindFirstLastOccurrence {
         System.out.println(res.get(0) + " " + res.get(1));
     }
 }
-
