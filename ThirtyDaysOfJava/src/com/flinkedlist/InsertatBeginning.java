@@ -40,7 +40,7 @@ public class InsertatBeginning {
         head.next.next.next = new Node(401);
         head.next.next.next.next = new Node(501);
 
-        int x = 2;
+        int x = 1;
         head = insertAtFornt(head, x);
 
         printList(head);
