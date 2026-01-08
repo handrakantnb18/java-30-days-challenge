@@ -1,12 +1,11 @@
 
 package com.flinkedlist;
 
-
-class Node {
+class NodeMain {
     int data;
-    Node next;
+    NodeMain next;
 
-    Node(int new_data) {
+    NodeMain(int new_data) {
         this.data = new_data;
         this.next = null;
     }
@@ -14,7 +13,7 @@ class Node {
 
 public class TraverseLinkedList {
 
-    public static void traverseList(Node head) {
+    public static void traverseList(NodeMain head) {
         while (head != null) {
             System.out.print(head.data);
             if (head.next != null)
@@ -25,11 +24,11 @@ public class TraverseLinkedList {
     }
 
     public static void main(String[] args) {
-        Node head = new Node(101);
-        head.next = new Node(102);
-        head.next.next = new Node(103);
-        head.next.next.next = new Node(104);
-        head.next.next.next.next = new Node(105);
+        NodeMain head = new NodeMain(101);
+        head.next = new NodeMain(102);
+        head.next.next = new NodeMain(103);
+        head.next.next.next = new NodeMain(104);
+        head.next.next.next.next = new NodeMain(105);
 
         traverseList(head);
     }
