@@ -43,5 +43,7 @@ public class CreateSinglyLinkedList {
         list.addNode(102);
         list.addNode(103);
         list.addNode(104);
+
+        list.display();
     }
 }
