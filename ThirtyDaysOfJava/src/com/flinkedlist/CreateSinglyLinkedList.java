@@ -1,15 +1,16 @@
 package com.flinkedlist;
 
-import org.w3c.dom.Node;
 
 public class CreateSinglyLinkedList {
 
-    int data;
-    Node Next;
+    class Node {
+        int data;
+        Node next;
 
-    Node(int data) {
-        this.data = data;
-        this.next = next;
+        Node(int data) {
+            this.data = data;
+            this.next = null;
+        }
     }
 
     private Node head = null;
@@ -27,8 +28,20 @@ public class CreateSinglyLinkedList {
             }
     }
 
+    public void display() {
+        Node current = head;
+        while (current != null) {
+            System.out.println(current.data + " -> ");
+            current = current.next;
+        }
+        System.out.println("Null");
+    }
 
     public static void main(String[] args) {
-
+        CreateSinglyLinkedList list = new CreateSinglyLinkedList();
+        list.addNode(101);
+        list.addNode(102);
+        list.addNode(103);
+        list.addNode(104);
     }
 }
