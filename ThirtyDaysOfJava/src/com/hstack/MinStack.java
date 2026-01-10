@@ -49,7 +49,7 @@ public class MinStack {
         ss.push(72);
         ss.push(63);
         ss.push(9);
-        ss.push(1);
+
         System.out.println(ss.getMin());
     }
 }
