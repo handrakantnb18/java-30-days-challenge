@@ -1,15 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="bd7b2457-9d46-4a42-b11f-96f70eed63af" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/ThirtyDaysOfJava.iml" beforeDir="false" />
+    <list default="true" id="2c753b58-56de-4818-ae60-adade56fb682" name="Changes" comment="Day 7.  10.&#9;LRU Cache (logic)">
+      <change afterPath="$PROJECT_DIR$/src/com/hstack/ImplementStackUsingArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$/.." value="main" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="GitHubPullRequestSearchHistory"><![CDATA[{
@@ -25,31 +38,44 @@
   }
 }]]></component>
   <component name="ProjectColorInfo"><![CDATA[{
-  "customColor": "",
   "associatedIndex": 0
 }]]></component>
-  <component name="ProjectId" id="383OMqvgp2EQJ9soRr95kb3GoHN" />
+  <component name="ProjectId" id="383PT4TqpJtpemxxLZ8UPNdGkZh" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.LRUCache.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "main",
+    "git-widget-placeholder": "#1 on master",
     "kotlin-language-version-configured": "true"
   }
 }]]></component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="bd7b2457-9d46-4a42-b11f-96f70eed63af" name="Changes" comment="" />
-      <created>1768024743115</created>
+      <changelist id="2c753b58-56de-4818-ae60-adade56fb682" name="Changes" comment="" />
+      <created>1768025286049</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1768024743115</updated>
+      <updated>1768025286049</updated>
     </task>
+    <task id="LOCAL-00001" summary="Day 7.  10.&#9;LRU Cache (logic)">
+      <option name="closed" value="true" />
+      <created>1768025424925</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1768025424925</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Day 7.  10.&#9;LRU Cache (logic)" />
+    <option name="LAST_COMMIT_MESSAGE" value="Day 7.  10.&#9;LRU Cache (logic)" />
   </component>
 </project>
