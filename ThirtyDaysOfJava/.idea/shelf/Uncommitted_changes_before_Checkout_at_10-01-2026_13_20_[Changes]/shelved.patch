@@ -1,0 +1,38 @@
+Index: .idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<project version=\"4\">\r\n  <component name=\"AutoImportSettings\">\r\n    <option name=\"autoReloadType\" value=\"SELECTIVE\" />\r\n  </component>\r\n  <component name=\"ChangeListManager\">\r\n    <list default=\"true\" id=\"2c753b58-56de-4818-ae60-adade56fb682\" name=\"Changes\" comment=\"Day 8. stack  2. Implement stack using linked list\">\r\n      <change afterPath=\"$PROJECT_DIR$/src/com/hstack/ImplementStackUsingLinkedList.java\" afterDir=\"false\" />\r\n    </list>\r\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\r\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\r\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\r\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\r\n  </component>\r\n  <component name=\"FileTemplateManagerImpl\">\r\n    <option name=\"RECENT_TEMPLATES\">\r\n      <list>\r\n        <option value=\"Class\" />\r\n      </list>\r\n    </option>\r\n  </component>\r\n  <component name=\"Git.Settings\">\r\n    <option name=\"RECENT_BRANCH_BY_REPOSITORY\">\r\n      <map>\r\n        <entry key=\"$PROJECT_DIR$/..\" value=\"master\" />\r\n      </map>\r\n    </option>\r\n    <option name=\"RECENT_GIT_ROOT_PATH\" value=\"$PROJECT_DIR$/..\" />\r\n  </component>\r\n  <component name=\"GitHubPullRequestSearchHistory\"><![CDATA[{\r\n  \"lastFilter\": {\r\n    \"state\": \"OPEN\",\r\n    \"assignee\": \"handrakantnb18\"\r\n  }\r\n}]]></component>\r\n  <component name=\"GithubPullRequestsUISettings\"><![CDATA[{\r\n  \"selectedUrlAndAccountId\": {\r\n    \"url\": \"https://github.com/handrakantnb18/java-30-days-challenge.git\",\r\n    \"accountId\": \"1abdf161-16bc-4d93-8b73-40beecfdaee0\"\r\n  }\r\n}]]></component>\r\n  <component name=\"ProjectColorInfo\"><![CDATA[{\r\n  \"associatedIndex\": 0\r\n}]]></component>\r\n  <component name=\"ProjectId\" id=\"383PT4TqpJtpemxxLZ8UPNdGkZh\" />\r\n  <component name=\"ProjectViewState\">\r\n    <option name=\"hideEmptyMiddlePackages\" value=\"true\" />\r\n    <option name=\"showLibraryContents\" value=\"true\" />\r\n  </component>\r\n  <component name=\"PropertiesComponent\"><![CDATA[{\r\n  \"keyToString\": {\r\n    \"Application.ImplementStackUsingArray.executor\": \"Run\",\r\n    \"Application.ImplementStackUsingLinkedList.executor\": \"Run\",\r\n    \"Application.LRUCache.executor\": \"Run\",\r\n    \"ModuleVcsDetector.initialDetectionPerformed\": \"true\",\r\n    \"RunOnceActivity.ShowReadmeOnStart\": \"true\",\r\n    \"RunOnceActivity.git.unshallow\": \"true\",\r\n    \"git-widget-placeholder\": \"main\",\r\n    \"kotlin-language-version-configured\": \"true\"\r\n  }\r\n}]]></component>\r\n  <component name=\"TaskManager\">\r\n    <task active=\"true\" id=\"Default\" summary=\"Default task\">\r\n      <changelist id=\"2c753b58-56de-4818-ae60-adade56fb682\" name=\"Changes\" comment=\"\" />\r\n      <created>1768025286049</created>\r\n      <option name=\"number\" value=\"Default\" />\r\n      <option name=\"presentableId\" value=\"Default\" />\r\n      <updated>1768025286049</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00001\" summary=\"Day 7.  10.&#9;LRU Cache (logic)\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1768025424925</created>\r\n      <option name=\"number\" value=\"00001\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00001\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1768025424925</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00002\" summary=\"Day 8. stack  1. 1.&#9;Implement stack using array\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1768025576607</created>\r\n      <option name=\"number\" value=\"00002\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00002\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1768025576607</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00003\" summary=\"Day 8. stack  2. Implement stack using linked list\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1768031299406</created>\r\n      <option name=\"number\" value=\"00003\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00003\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1768031299406</updated>\r\n    </task>\r\n    <option name=\"localTasksCounter\" value=\"4\" />\r\n    <servers />\r\n  </component>\r\n  <component name=\"VcsManagerConfiguration\">\r\n    <MESSAGE value=\"Day 7.  10.&#9;LRU Cache (logic)\" />\r\n    <MESSAGE value=\"Day 8. stack  1. 1.&#9;Implement stack using array\" />\r\n    <MESSAGE value=\"Day 8. stack  2. Implement stack using linked list\" />\r\n    <option name=\"LAST_COMMIT_MESSAGE\" value=\"Day 8. stack  2. Implement stack using linked list\" />\r\n  </component>\r\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/workspace.xml b/.idea/workspace.xml
+--- a/.idea/workspace.xml	(revision e3543d908ff9813443dbc1d3079169788f55d0ba)
++++ b/.idea/workspace.xml	(date 1768031416108)
+@@ -4,9 +4,7 @@
+     <option name="autoReloadType" value="SELECTIVE" />
+   </component>
+   <component name="ChangeListManager">
+-    <list default="true" id="2c753b58-56de-4818-ae60-adade56fb682" name="Changes" comment="Day 8. stack  2. Implement stack using linked list">
+-      <change afterPath="$PROJECT_DIR$/src/com/hstack/ImplementStackUsingLinkedList.java" afterDir="false" />
+-    </list>
++    <list default="true" id="2c753b58-56de-4818-ae60-adade56fb682" name="Changes" comment="Day 8. stack  2. Implement stack using linked list" />
+     <option name="SHOW_DIALOG" value="false" />
+     <option name="HIGHLIGHT_CONFLICTS" value="true" />
+     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+@@ -91,7 +89,15 @@
+       <option name="project" value="LOCAL" />
+       <updated>1768031299406</updated>
+     </task>
+-    <option name="localTasksCounter" value="4" />
++    <task id="LOCAL-00004" summary="Day 8. stack  2. Implement stack using linked list">
++      <option name="closed" value="true" />
++      <created>1768031408824</created>
++      <option name="number" value="00004" />
++      <option name="presentableId" value="LOCAL-00004" />
++      <option name="project" value="LOCAL" />
++      <updated>1768031408824</updated>
++    </task>
++    <option name="localTasksCounter" value="5" />
+     <servers />
+   </component>
+   <component name="VcsManagerConfiguration">
