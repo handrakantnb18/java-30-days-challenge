@@ -27,7 +27,7 @@ public class LargestRectangleinHistogram {
         int[] heights1 = {2, 5,1, 8, 6, 9};
         System.out.println("Largest Rectangle Area : " +lrh.largestRectHist(heights1));
 
-        int[] heights2 = {5, 9, 6};
+        int[] heights2 = {5, 9, 6, 8, 1};
         System.out.println("Largest Rectangle Area : " + lrh.largestRectHist(heights2));
     }
 }
