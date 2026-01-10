@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2c753b58-56de-4818-ae60-adade56fb682" name="Changes" comment="Day 8. stack  2. Implement stack using linked list">
-      <change afterPath="$PROJECT_DIR$/src/com/hstack/ImplementStackUsingLinkedList.java" afterDir="false" />
-    </list>
+    <list default="true" id="2c753b58-56de-4818-ae60-adade56fb682" name="Changes" comment="Day 8. stack  2. Implement stack using linked list" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -25,23 +23,23 @@
         <entry key="$PROJECT_DIR$/.." value="master" />
       </map>
     </option>
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "handrakantnb18"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;handrakantnb18&quot;
   }
-}]]></component>
+}</component>
   <component name="GithubPullRequestsUISettings"><![CDATA[{
   "selectedUrlAndAccountId": {
-    "url": "https://github.com/handrakantnb18/java-30-days-challenge.git",
+    "url": "https://github.com/handrakantnb18/ThirtyDaysOfJava.git",
     "accountId": "1abdf161-16bc-4d93-8b73-40beecfdaee0"
   }
 }]]></component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 0
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
   <component name="ProjectId" id="383PT4TqpJtpemxxLZ8UPNdGkZh" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -55,7 +53,7 @@
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "main",
+    "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true"
   }
 }]]></component>
