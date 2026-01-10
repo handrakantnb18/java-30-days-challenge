@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="2c753b58-56de-4818-ae60-adade56fb682" name="Changes" comment="Day 8. stack  2. Implement stack using linked list">
+      <change afterPath="$PROJECT_DIR$/src/com/hstack/ImplementStackUsingLinkedList.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$/.." value="master" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "handrakantnb18"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/handrakantnb18/java-30-days-challenge.git",
+    "accountId": "1abdf161-16bc-4d93-8b73-40beecfdaee0"
+  }
+}]]></component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 0
+}]]></component>
+  <component name="ProjectId" id="383PT4TqpJtpemxxLZ8UPNdGkZh" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.ImplementStackUsingArray.executor": "Run",
+    "Application.ImplementStackUsingLinkedList.executor": "Run",
+    "Application.LRUCache.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true"
+  }
+}]]></component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2c753b58-56de-4818-ae60-adade56fb682" name="Changes" comment="" />
+      <created>1768025286049</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1768025286049</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Day 7.  10.&#9;LRU Cache (logic)">
+      <option name="closed" value="true" />
+      <created>1768025424925</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1768025424925</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Day 8. stack  1. 1.&#9;Implement stack using array">
+      <option name="closed" value="true" />
+      <created>1768025576607</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1768025576607</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Day 8. stack  2. Implement stack using linked list">
+      <option name="closed" value="true" />
+      <created>1768031299406</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1768031299406</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Day 7.  10.&#9;LRU Cache (logic)" />
+    <MESSAGE value="Day 8. stack  1. 1.&#9;Implement stack using array" />
+    <MESSAGE value="Day 8. stack  2. Implement stack using linked list" />
+    <option name="LAST_COMMIT_MESSAGE" value="Day 8. stack  2. Implement stack using linked list" />
+  </component>
+</project>
