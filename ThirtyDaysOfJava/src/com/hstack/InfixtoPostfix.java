@@ -42,7 +42,7 @@ public class InfixtoPostfix {
         switch (operator) {
             case '+' :
             case '-' :
-                return 1;
+                    return 1;
             case  '*' :
             case '/' :
                 return 2;
@@ -60,6 +60,6 @@ public class InfixtoPostfix {
         sc.close();
         String postfix = infixToPostFix(infix);
 
-        System.out.println("Profix Expression : \n " + postfix);
+        System.out.println("Profix Expression is : \n " + postfix);
     }
 }
