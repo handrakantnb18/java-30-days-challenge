@@ -1,7 +1,5 @@
 package com.obinarysearchtree;
 
-import org.w3c.dom.Node;
-
 public class InsertNode {
     Node head;
 
