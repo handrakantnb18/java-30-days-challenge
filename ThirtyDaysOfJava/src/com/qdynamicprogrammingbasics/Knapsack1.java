@@ -37,5 +37,6 @@ public class Knapsack1 {
         int N = profit.length;
 
         System.out.println(knapSack(W, weight, profit, N));
+        System.out.println();
     }
 }
