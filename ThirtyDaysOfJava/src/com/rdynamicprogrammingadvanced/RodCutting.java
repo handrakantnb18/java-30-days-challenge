@@ -18,5 +18,6 @@ public class RodCutting {
         int arr[] = new int[] { 1, 5, 8, 9, 10, 17, 17, 20, 20};
         int size = arr.length;
         System.out.println("MAximum Obtainable Value is " + cutRod(arr, size));
+        System.out.println("Good");
     }
 }

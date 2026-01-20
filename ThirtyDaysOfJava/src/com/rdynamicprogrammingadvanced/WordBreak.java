@@ -10,5 +10,6 @@ public class WordBreak {
             System.out.println("i : "+i);
         }
         System.out.println("Done");
+        System.out.println();
     }
 }

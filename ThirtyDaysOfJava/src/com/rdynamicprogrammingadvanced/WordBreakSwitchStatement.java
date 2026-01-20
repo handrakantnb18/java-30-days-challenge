@@ -29,7 +29,6 @@ public class WordBreakSwitchStatement {
             default:
                 System.out.println("No days found");
         }
+        System.out.println();
     }
-
-
 }
