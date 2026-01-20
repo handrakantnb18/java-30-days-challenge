@@ -20,5 +20,6 @@ public class CountWaystoReachN {
     public static void main(String[] args) {
         int s = 4, m = 2;
         System.out.println("Number of ways :  " +countWays(s, m));
+
     }
 }
