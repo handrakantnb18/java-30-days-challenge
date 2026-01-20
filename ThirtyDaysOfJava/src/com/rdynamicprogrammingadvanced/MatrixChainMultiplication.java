@@ -34,6 +34,7 @@ public class MatrixChainMultiplication {
 
         for (int[] row : dp)
             Arrays.fill(row, -1);
+
         System.out.println("Minimum number of multiplication is : "+MatrixChainOrder(arr, n));
     }
 }
