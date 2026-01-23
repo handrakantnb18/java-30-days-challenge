@@ -18,5 +18,6 @@ public class FindSingleNumber {
         int[] arr = {8, 2, 4, 5, 3, 7, 1};
         int res = missingNum(arr);
         System.out.println(res);
+
     }
 }
