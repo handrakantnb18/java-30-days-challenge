@@ -28,7 +28,6 @@ public class GCDLCM {
             ans++;
 
             System.out.println("LCM of : " + a + " and "+ b + " is " + ans);
-
         }
     }
 }
