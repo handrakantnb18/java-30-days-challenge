@@ -26,6 +26,7 @@ public class FailFastvsFailSafeTwo {
         while (itr.hasNext()) {
             if (itr.next()== 3) {
                 al.remove(3);
+                System.out.println();
             }
         }
     }
