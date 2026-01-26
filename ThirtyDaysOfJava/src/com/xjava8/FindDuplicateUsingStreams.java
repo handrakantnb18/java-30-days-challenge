@@ -64,6 +64,6 @@ public class FindDuplicateUsingStreams {
         );
 
         System.out.println(findDuplicateS(list));
-
+        System.out.println();
     }
 }
