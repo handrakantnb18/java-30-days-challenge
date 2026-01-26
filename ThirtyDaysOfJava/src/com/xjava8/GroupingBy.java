@@ -16,7 +16,5 @@ public class GroupingBy {
                 Collectors.groupingBy(Function.identity(), Collectors.counting()));
 
         System.out.println(result);
-
-
     }
 }
