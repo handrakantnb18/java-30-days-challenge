@@ -40,6 +40,7 @@ public class DesignATM {
         balance = amountWithdrawing(balance, withdrawAmount);
 
         balance = amountDepositing(balance, depositAmount);
+        System.out.println(balance);
     }
 
 }
