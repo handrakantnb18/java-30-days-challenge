@@ -34,5 +34,6 @@ public class DesignStack {
 
         System.out.println(stack1);
         System.out.println(stack2);
+
     }
 }
