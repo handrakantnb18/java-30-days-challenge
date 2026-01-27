@@ -36,5 +36,6 @@ public class LongestSubstringWithoutRepeat {
         int len = longestUniqueSubsttr(str);
 
         System.out.println("The length of the longest : "+ "non-repeating charactor " + "Substring is : " +len);
+        System.out.println();
     }
 }
