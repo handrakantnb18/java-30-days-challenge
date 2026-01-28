@@ -56,5 +56,6 @@ public class TrappingRainWater {
         // Prefix and suffix max for each index - O(n) Time and O(n) Space
         int[] arr1 = {2, 1, 5, 3, 1, 0, 4};
         System.out.println(maxWater(arr1));
+        System.out.println();
     }
 }
