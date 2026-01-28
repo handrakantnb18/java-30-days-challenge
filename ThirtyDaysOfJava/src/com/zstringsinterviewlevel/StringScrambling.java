@@ -36,5 +36,6 @@ public class StringScrambling {
         String str2 = "Hello, ";
         System.out.println(str.equalsIgnoreCase(str1));
         System.out.println(str.equalsIgnoreCase(str2));
+
     }
 }
