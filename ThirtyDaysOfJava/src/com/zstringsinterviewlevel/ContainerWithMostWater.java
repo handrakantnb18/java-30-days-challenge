@@ -38,5 +38,6 @@ public class ContainerWithMostWater {
         // Checking all possible boundaries - O(n^2) Time and O(1) Space
         int[] arr1 = {2, 1, 8, 6, 4, 6, 5, 6};
         System.out.println(containerWater(arr1));
+        System.out.println();
     }
 }
