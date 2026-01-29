@@ -68,6 +68,7 @@ public class MergeIntervals {
 
             for (int[] interval1 : res1)
                 System.out.println(interval[0]+ " "+ interval1[1]);
+            System.out.println();
 
         }
     }
