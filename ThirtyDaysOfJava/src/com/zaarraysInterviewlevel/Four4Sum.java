@@ -84,6 +84,7 @@ public class Four4Sum {
                     System.out.print(x1 + " ");
                 }
                 System.out.println();
+                System.out.println();
             }
 
         }
