@@ -22,5 +22,6 @@ public class Three3Sum {
             sum = Integer.sum(sum, arr[i]);
         }
         System.out.println("Sum of the array elements is : "+ sum);
+        System.out.println();
     }
 }
