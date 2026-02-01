@@ -1,1 +1,2 @@
 The parallelStream() method in Java is used to create a parallelstream from a Collection. We can directly call parallelStream() on Collections (such as List, set) to obtain parallel stream.
+
