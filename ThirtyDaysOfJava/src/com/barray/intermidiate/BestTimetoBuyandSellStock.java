@@ -24,5 +24,6 @@ public class BestTimetoBuyandSellStock {
         int[] stockPrices = {7, 8, 9, 5, 4, 6};
         int result = maxProfit(stockPrices);
         System.out.println("Mazimum profit : "+result);
+
     }
 }
