@@ -1,6 +1,7 @@
 package com.zaebarrayintermidiate;
 
 public class CountOccurrences {
+
     public static void main(String[] args) {
         int[] array = {9, 2, 5, 2, 7, 2, 8, 6, 4, 2};
         int num1 = 2;
