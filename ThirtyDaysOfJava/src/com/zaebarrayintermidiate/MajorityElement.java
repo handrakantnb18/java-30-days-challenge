@@ -23,6 +23,5 @@ public class MajorityElement {
         int[] nums = {5, 5, 5, 8, 4, 4, 4};
         int majorityElement = findMajorityElement(nums);
         System.out.println("Majority Element : "+majorityElement);
-
     }
 }
