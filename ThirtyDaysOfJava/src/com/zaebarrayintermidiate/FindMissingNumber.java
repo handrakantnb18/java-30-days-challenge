@@ -7,6 +7,7 @@ import java.util.stream.Collectors;
 import java.util.stream.IntStream;
 
 public class FindMissingNumber {
+
     public static void main(String[] args) {
         int[] array = {0, 2, 4, 5, 6, 7, 10};
 
